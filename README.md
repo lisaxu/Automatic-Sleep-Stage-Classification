@@ -2,6 +2,9 @@
 
 Sleep stage classification is important for sleep disorder diagnosis. Emerging deep learning studies in sleep stage classification have demonstrated state-of-the-art performance and can greatly reduce manual effort from human experts. In this paper we present and evaluate several machine learning models that automatically classify sleep stages. They include convolutional neural network (CNN) model, CNN and recurrent neural network (RNN) model, and selected non-deep learning models. All models are developed without any signal preprocessing or hand-engineered features. The CNN-RNN model achieved the best performance among all models with an accuracy of 0.79, average F1 score of 0.72, and cohen’s kappa coefficient of 0.72. The labels produced by our model are in substantial agreement with that from a human expert.
 
+# Final report
+[Final report](https://github.com/lisaxu/Automatic-Sleep-Stage-Classification/blob/main/deliverables/Final%20Report%20-%20CS598%20DL4HC%20Project%20-%20Sleep%20Stage%20Classification.pdf "Final_report.pdf") 
+
 # Data
 
 Our data was too big to fit into this repo, so it is currently hosted on cloud storage outside of this repo. In order to get started with this project you should be able to move the data folder from box.com into the same directory as the notebook that you are running.
